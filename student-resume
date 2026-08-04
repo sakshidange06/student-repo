@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Resume</title>
+</head>
+<body>
+
+    <h1>Sakshi Dange</h1>
+
+    <p>
+        I am a second year B.Tech Computer Engineering student.
+        I am interested in web development and programming.
+    </p>
+
+    <h2>Education</h2>
+    <table border="1">
+        <tr>
+            <th>Course</th>
+            <th>College</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>B.Tech Computer Engineering</td>
+            <td>MIT College</td>
+            <td>Second Year</td>
+        </tr>
+        <tr>
+            <td>12th</td>
+            <td>Shri Saibaba Junior College</td>
+            <td>2024</td>
+        </tr>
+    </table>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>Python</li>
+        <li>C Programming</li>
+    </ul>
+
+    <h2>Contact Form</h2>
+    <form>
+        Name: <input type="text"><br><br>
+        Email: <input type="email"><br><br>
+        Message:<br>
+        <textarea rows="4" cols="30"></textarea><br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>
